@@ -2,10 +2,13 @@
 This is repo learning for Data Analytics students of the cohort 20C
 Introduction
 
-Welcome to an in-depth analysis of the MTN Nigeria Customer Intelligence Report for Q1 2025. This report delves into device usage, revenue generation, customer distribution, churn rates, and demographic trends to deliver actionable insights aimed at enhancing customer retention and driving revenue growth.
+Welcome to an in-depth analysis of the MTN Nigeria Customer Intelligence Report for Q1 2025. This report delves into device usage, revenue generation, customer distribution, churn rates, and demographic trends to deliver actionable insights aimed at enhancing customer retention and driving revenue growth
+
+
+
 ![1_U9qiyaBYcNgFWODsUDnGlQ](https://github.com/user-attachments/assets/7cc9ebd3-87b6-4a16-a6cf-a85d85880ddc)
 
-<img width="1706" height="705" alt="Dashboard of Churn Analysis" src="https://github.com/user-attachments/assets/2a661015-28cc-47df-95ed-5f919f6162c1" />
+
 
 
 The Story of the Data
